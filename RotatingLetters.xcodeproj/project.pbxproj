@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		0E4F377620750C2400E1C552 /* RotatingLetters */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RotatingLetters; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E4F377920750C2500E1C552 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		814A307F20C00F89001BB96F /* Rotating Letters.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Rotating Letters.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		0E4F377820750C2400E1C552 /* RotatingLetters */ = {
 			isa = PBXGroup;
 			children = (
+				814A307F20C00F89001BB96F /* Rotating Letters.pdf */,
 				0E4F377920750C2500E1C552 /* main.swift */,
 			);
 			path = RotatingLetters;
